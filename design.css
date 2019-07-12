@@ -1,0 +1,135 @@
+h1 {
+	text-align: center;
+	font-family: serif;
+	text-decoration: underline;
+	color: rgb(0, 204, 204);
+}
+
+html {
+	background-image: url("picture.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.footer {
+	size: 100px;
+}
+
+.copyright1 {
+	text-align: center;
+	color: white;
+}
+
+.copyright2 {
+	position: fixed; 
+	bottom: 0; 
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+body {
+	font-family: Bookman Old Style;
+}
+
+h2 {
+	font-family: serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(0, 255, 0);
+	border: 0px;
+}
+
+a:link {
+	font-weight: bold;
+}
+
+a:hover {
+	color: black;
+}
+
+a:visited {
+	color: none;
+}
+
+.contact-header {
+	padding-left: 30px;
+	padding-right: 30px;
+	color: rgb(255, 255, 255);
+}
+
+section {
+	padding: 30px;
+	border: none;
+}
+
+label {
+	display: block;
+	color: rgb(204, 153, 0);
+	font-weight: bold;
+}
+
+input[type="text"], input[type="email"] {
+	width: 250px;
+	border-radius: 10px;
+	   	
+}
+
+input[type="submit"] {
+	background-color: black;
+	color: white;
+	border: none;
+	padding: 15px;
+}
+
+input[type="submit"]:hover {
+	color: green;
+}
+
+textarea {
+	width: 400px;
+	height: 100px;
+	border-radius: 10px;
+}
+
+.email, .mobile-no {
+	color: rgb(0, 99, 153);
+}
+
+.p1, .p2, .p3, .p4 {
+	color: rgb(153, 153, 0);
+}
+
+.h2 {
+	color: rgb(57, 172, 115);
+	font-weight: bold;
+}
+
+.link-1, .link-2, .link-3 {
+	padding: 50px;
+}
+
+.footer1 {
+	text-align: center;
+	position: fixed; 
+	bottom: 50px; 
+	width: 100%;
+}
+
+.footer {
+	text-align: center;
+}
+
+select {
+	border-radius: 10px;
+}
+
+@media only screen and (orientation: portrait) {
+	body {
+		font-size: 40px;
+	}
+}
