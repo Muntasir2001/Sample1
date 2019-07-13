@@ -128,7 +128,7 @@ select {
 	border-radius: 10px;
 }
 
-@media only screen and (max-width: 5000px) {
+@media only screen and (max-width: 500px) {
 
 	html {
 		background-position: 50% 50%;
