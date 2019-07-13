@@ -135,6 +135,7 @@ select {
 		background-size: 470px 2880px;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
+		background-image: none;
 	}
 
 	h1 {
