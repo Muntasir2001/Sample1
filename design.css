@@ -134,7 +134,8 @@ select {
 	}
 
 	html {
-		background-position: center
+		background-position: center;
+		background-size: cover;
 	}
 
 	h1 {
