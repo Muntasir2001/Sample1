@@ -129,9 +129,6 @@ select {
 }
 
 @media only screen and (max-width: 480px) {
-	body {
-		font-size: 40px;
-	}
 
 	html {
 		background-position: 50% 50%;
@@ -171,8 +168,10 @@ select {
 	}
 
 	label {
-		font-size: 90px;
+		font-size: 100px;
 	}
 
-
+	.link-1, .link-2, .link-3 {
+		font-size: 100px;
+	}
 }
