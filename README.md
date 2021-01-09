@@ -1,5 +1,8 @@
-# sample1
-Trial version of the Project1
+# Project Website 1
 
-The website is currently not compatible(responsive) with phone browsers. Will be updated shortly.
+## Objective
+To learn how to implement basic HTML5 and CSS3.
+
+## Website
+https://muntasir2001.github.io/project-website-1/
 
